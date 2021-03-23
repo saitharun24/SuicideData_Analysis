@@ -604,8 +604,6 @@ sns.set(rc={'figure.figsize':(12,9)})
 sns.countplot(df['Type_code'])
 ```
 
-    D:\External Application\PythonIDE\lib\site-packages\seaborn\_decorators.py:43: FutureWarning: Pass the following variable as a keyword arg: x. From version 0.12, the only valid positional argument will be `data`, and passing other arguments without an explicit keyword will result in an error or misinterpretation.
-      FutureWarning
     
 
 

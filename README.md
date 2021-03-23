@@ -1945,7 +1945,7 @@ We then went ahead with first drawing a conculsion on which gender has the most 
 
 We then saw each type individually and then went ahead for an indepth analysis where we analysed based on the suicide causes, means used, the profession of the people, their education status and their social status where we were able to draw some good conclusion that can be used to effectively reduce the number of suicides. This was we are able to target the places which give us really good results instead of blindly targetting without proper plan and retargetting by changing the plan based on the observed results, which can be a tiresome and cumbersome process.
 
-We then, as a further example, extended our analysis to two states, i.e Maharashtra (1st in the number of cases) followed by Tamil Nadu (4th in the number of cases). We were able to draw some intresting insights from these analysis too.
+We then, as a further example, extended our analysis to two states, i.e Maharashtra (1st in the number of cases) followed by Tamil Nadu (4th in the number of cases). We were able to draw some interesting insights from these analysis too.
 
 Thus, we have performed a indepth analysis of the suicide dataset and have used the python packages to help us represent the data visually using bar graphs and pie charts, visual form of representation is always appriciated since it helps us understand and perform analysis easily. 
 

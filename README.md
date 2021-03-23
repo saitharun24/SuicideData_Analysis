@@ -13,7 +13,7 @@ The modules that we would be using for this purpose are :
 4. matplotlib - for drawing the piechart's, also used to aid our analysis.
 
 Incase you do not have any of the above packages you can install them using the command 
--pip install <library_name> in Anaconda prompt or the command prompt.
+'-pip install <library_name>' in Anaconda prompt or the command prompt.
 
 Incase you want to try this on your own, download the dataset and the relevant format of the code whether '.ipnyb' or '.py', put both the dataset and the code in the same directory and then run it locally in your machine.
 

@@ -293,7 +293,7 @@ sns.barplot(x=df['Gender'], y=df['Total'])
 
 
     
-![png](output_9_1.png)
+![output_9_1](https://user-images.githubusercontent.com/50414959/112197340-fc5a6200-8c31-11eb-826c-74e1b1d4e474.png)
     
 
 
@@ -311,7 +311,8 @@ plt.show()
 
 
     
-![png](output_10_0.png)
+![output_10_0](https://user-images.githubusercontent.com/50414959/112197361-04b29d00-8c32-11eb-9f1b-4c3659949fb7.png)
+
     
 
 
@@ -402,7 +403,8 @@ sns.barplot(x = df_age_type['Age_group'], y = df_age_type['Total'])
 
 
     
-![png](output_13_1.png)
+![output_13_1](https://user-images.githubusercontent.com/50414959/112197391-0c724180-8c32-11eb-8895-9350b6d0b20c.png)
+
     
 
 
@@ -418,7 +420,8 @@ plt.show()
 
 
     
-![png](output_14_0.png)
+![output_14_0](https://user-images.githubusercontent.com/50414959/112197410-1136f580-8c32-11eb-9423-e0faecd4934a.png)
+
     
 
 
@@ -546,7 +549,7 @@ sns.barplot(x = "Age_group", y = "Total", hue = "Gender", data=df_age_gender)
 
 
     
-![png](output_17_1.png)
+![output_17_1](https://user-images.githubusercontent.com/50414959/112197437-17c56d00-8c32-11eb-9610-69df9b618385.png)
     
 
 
@@ -572,8 +575,8 @@ plt.show()
 ```
 
 
-    
-![png](output_20_0.png)
+![output_20_0](https://user-images.githubusercontent.com/50414959/112197451-1bf18a80-8c32-11eb-98b8-d92f3793c5f0.png)
+
     
 
 
@@ -615,7 +618,8 @@ plot = sns.barplot(x = 'Year', y = 'Total', data = yr, palette = 'flare')
 
 
     
-![png](output_23_0.png)
+![output_23_0](https://user-images.githubusercontent.com/50414959/112197469-23189880-8c32-11eb-9723-1462b83c0043.png)
+
     
 
 
@@ -665,7 +669,8 @@ sns.countplot(df['Type_code'])
 
 
     
-![png](output_27_2.png)
+![output_27_2](https://user-images.githubusercontent.com/50414959/112197492-290e7980-8c32-11eb-8aa2-2ea8fbd4e97a.png)
+
     
 
 
@@ -715,7 +720,8 @@ plt.show()
 
 
     
-![png](output_33_0.png)
+![output_33_0](https://user-images.githubusercontent.com/50414959/112197512-2e6bc400-8c32-11eb-9934-b84b5eea7621.png)
+
     
 
 
@@ -735,7 +741,8 @@ sns.barplot(x = df_social_type['Total'], y=df_social_type['Type'])
 
 
     
-![png](output_34_1.png)
+![output_34_1](https://user-images.githubusercontent.com/50414959/112197529-3297e180-8c32-11eb-9571-c9acaeb0a2db.png)
+
     
 
 
@@ -784,7 +791,8 @@ plt.show()
 
 
     
-![png](output_38_0.png)
+![output_38_0](https://user-images.githubusercontent.com/50414959/112197548-388dc280-8c32-11eb-9d7d-9c4434c8cb81.png)
+
     
 
 
@@ -804,7 +812,8 @@ sns.barplot(x = df_Profession_Type['Total'], y=df_Profession_Type['Type'])
 
 
     
-![png](output_39_1.png)
+![output_39_1](https://user-images.githubusercontent.com/50414959/112197560-3af01c80-8c32-11eb-8049-69d8925a64f2.png)
+
     
 
 
@@ -859,7 +868,8 @@ plt.show()
 
 
     
-![png](output_43_0.png)
+![output_43_0](https://user-images.githubusercontent.com/50414959/112197593-43e0ee00-8c32-11eb-9c7a-c6916c2a1df3.png)
+
     
 
 
@@ -879,7 +889,8 @@ sns.barplot(x = df_means['Total'], y=df_means['Type'])
 
 
     
-![png](output_44_1.png)
+![output_44_1](https://user-images.githubusercontent.com/50414959/112197613-493e3880-8c32-11eb-94af-776a7a9e4c89.png)
+
     
 
 
@@ -929,7 +940,8 @@ plt.show()
 
 
     
-![png](output_48_0.png)
+![output_48_0](https://user-images.githubusercontent.com/50414959/112197637-4e02ec80-8c32-11eb-89cb-54b4112fd6d0.png)
+
     
 
 
@@ -949,7 +961,8 @@ sns.barplot(x = df_education['Total'], y=df_education['Type'])
 
 
     
-![png](output_49_1.png)
+![output_49_1](https://user-images.githubusercontent.com/50414959/112197656-51967380-8c32-11eb-9e6b-c2c51f5a4438.png)
+
     
 
 
@@ -1010,7 +1023,8 @@ plt.show()
 
 
     
-![png](output_53_0.png)
+![output_53_0](https://user-images.githubusercontent.com/50414959/112197672-56f3be00-8c32-11eb-984f-0f86f2706b54.png)
+
     
 
 
@@ -1030,7 +1044,8 @@ sns.barplot(x = df_causes['Total'], y=df_causes['Type'])
 
 
     
-![png](output_54_1.png)
+![output_54_1](https://user-images.githubusercontent.com/50414959/112197703-5e1acc00-8c32-11eb-9fb6-e0c667621875.png)
+
     
 
 
@@ -1247,7 +1262,8 @@ sns.barplot(x = df_Maharashtra_Social_Type['Total'], y=df_Maharashtra_Social_Typ
 
 
     
-![png](output_60_1.png)
+![output_60_1](https://user-images.githubusercontent.com/50414959/112197726-66730700-8c32-11eb-9de4-9d0b5e7e1917.png)
+
     
 
 
@@ -1307,7 +1323,8 @@ sns.barplot(x = df_Maharashtra_Professional_Type['Total'], y=df_Maharashtra_Prof
 
 
     
-![png](output_64_1.png)
+![output_64_1](https://user-images.githubusercontent.com/50414959/112197757-6e32ab80-8c32-11eb-82d4-9b1c97757a36.png)
+
     
 
 
@@ -1377,7 +1394,8 @@ sns.barplot(x = df_Maharashtra_means_Type['Total'], y=df_Maharashtra_means_Type[
 
 
     
-![png](output_68_1.png)
+![output_68_1](https://user-images.githubusercontent.com/50414959/112197781-74c12300-8c32-11eb-85df-d2e7002c9436.png)
+
     
 
 
@@ -1435,7 +1453,8 @@ sns.barplot(x = df_Maharashtra_Education_Type['Total'], y=df_Maharashtra_Educati
 
 
     
-![png](output_72_1.png)
+![output_72_1](https://user-images.githubusercontent.com/50414959/112197804-7ab70400-8c32-11eb-8b6a-46c1cd9fe125.png)
+
     
 
 
@@ -1514,7 +1533,8 @@ sns.barplot(x = df_Maharashtra_Causes_Type['Total'], y=df_Maharashtra_Causes_Typ
 
 
     
-![png](output_76_1.png)
+![output_76_1](https://user-images.githubusercontent.com/50414959/112197828-81457b80-8c32-11eb-99f4-a5fbadcaeb8f.png)
+
     
 
 
@@ -1729,7 +1749,8 @@ sns.barplot(y=df_TamilNadu_Social_Type['Type'],x=df_TamilNadu_Social_Type['Total
 
 
     
-![png](output_82_1.png)
+![output_82_1](https://user-images.githubusercontent.com/50414959/112197857-89052000-8c32-11eb-8d07-80f13e65a98c.png)
+
     
 
 
@@ -1789,7 +1810,8 @@ sns.barplot(x=df_TamilNadu_Professional_Type['Total'], y= df_TamilNadu_Professio
 
 
     
-![png](output_86_1.png)
+![output_86_1](https://user-images.githubusercontent.com/50414959/112197877-8e626a80-8c32-11eb-8724-255ae0b484b8.png)
+
     
 
 
@@ -1854,7 +1876,8 @@ sns.barplot(x=df_TamilNadu_means_Type['Total'], y= df_TamilNadu_means_Type['Type
 
 
     
-![png](output_90_1.png)
+![output_90_1](https://user-images.githubusercontent.com/50414959/112197904-94584b80-8c32-11eb-9a34-6cedfcba6b98.png)
+
     
 
 
@@ -1912,7 +1935,8 @@ sns.barplot(x=df_TamilNadu_Education_Type['Total'], y= df_TamilNadu_Education_Ty
 
 
     
-![png](output_94_1.png)
+![output_94_1](https://user-images.githubusercontent.com/50414959/112197923-991cff80-8c32-11eb-9471-832bffc402b3.png)
+
     
 
 
@@ -1987,7 +2011,8 @@ sns.barplot(x=df_TamilNadu_causes_Type['Total'], y= df_TamilNadu_causes_Type['Ty
 
 
     
-![png](output_98_1.png)
+![output_98_1](https://user-images.githubusercontent.com/50414959/112197942-9f12e080-8c32-11eb-86d7-2ca5ef37c7b6.png)
+
     
 
 
